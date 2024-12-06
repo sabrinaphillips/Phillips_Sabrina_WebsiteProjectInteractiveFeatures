@@ -116,7 +116,7 @@ img {
 .hero-image {
     display: flex;
     align-items: normal;
-    background-image: url('videos/taco-video.png');
+    background-image: url('/videos/taco-video.png');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -196,7 +196,7 @@ img {
   .section-image {
     display: flex;
     align-items: center;
-    background-image: url(images/the-beach-house-logo-05.png);
+    background-image: url(/images/the-beach-house-logo-05.png);
     background-position: top;
     background-size: 60%;
     background-repeat: repeat;

@@ -193,7 +193,16 @@ img {
     padding: 48px 32px;
 }
 
-  .section-image {
+.footer {
+    display: flex;
+    justify-content: space-between;
+    /*align-items: center */
+    box-shadow: 0 3px 7px #00000022;
+    background-color: white;
+    padding: 40px 30px;
+}
+
+.section-image {
     display: flex;
     align-items: center;
     background-image: url(images/the-beach-house-logo-05.png);
@@ -202,14 +211,6 @@ img {
     background-repeat: repeat;
     padding: 48px 32px;
 
-}
-.footer {
-    display: flex;
-    justify-content: space-between;
-    /*align-items: center */
-    box-shadow: 0 3px 7px #00000022;
-    background-color: white;
-    padding: 40px 30px;
 }
 .box {
     background-color: black;
